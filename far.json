@@ -4,11 +4,11 @@
 	"version": "30b3900",
 	"architecture": {
 		"64bit": { 
-			"url": "http://www.farmanager.com/files/Far30b3900.x64.20140513.7z",
+			"url": "http://www.farmanager.com/files/Far30b3900.x64.20140513.msi",
 			"hash": "638c1f6e672157022e5628f0c5cd0c14f73782ea4b6cd358c0ad49324135052e"
 		},
                 "32bit": {
-			"url": "http://www.farmanager.com/files/Far30b3900.x86.20140513.7z",
+			"url": "http://www.farmanager.com/files/Far30b3900.x86.20140513.msi",
 			"hash": "b98ed0b691dd1e29a937a3d97a96b2ba75895ede7124ef6140cf7ab2ed9a27f2"
 		}
 	},
