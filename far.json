@@ -12,7 +12,7 @@
 			"hash": "b17931831ea71e15a3a52af39600db2b830fde04d1fc628ab964ba51801ccb0c"
 		}
 	},
-	"bin":"Far Manager\\far.exe",
+	"bin":"far.exe",
         "depends":"conemu"
 }
 
