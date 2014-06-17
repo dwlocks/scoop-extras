@@ -4,14 +4,15 @@
 	"version": "3.0_build_3900",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.farmanager.com/files/Far30b3900.x64.20140513.msi",
-			"hash": "638c1f6e672157022e5628f0c5cd0c14f73782ea4b6cd358c0ad49324135052e"
+			"url": "http://www.farmanager.com/files/Far30b3900.x64.20140513.7z",
+			"hash": "58f831dccc79cd09236bf2f9a891d1e542bcc47b"
 		},
                 "32bit": {
-			"url": "http://www.farmanager.com/files/Far30b3900.x86.20140513.msi",
-			"hash": "b98ed0b691dd1e29a937a3d97a96b2ba75895ede7124ef6140cf7ab2ed9a27f2"
+			"url": "http://www.farmanager.com/files/Far30b3900.x86.20140513.7z",
+			"hash": "060c665923e59cfceef1d9325735416384cfecbd"
 		}
 	},
-	"bin":"Far Manager\\far.exe"
+	"bin":"Far Manager\\far.exe",
+        "depends":"conemu"
 }
 
