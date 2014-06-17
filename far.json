@@ -5,11 +5,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "http://www.farmanager.com/files/Far30b3900.x64.20140513.7z",
-			"hash": "58f831dccc79cd09236bf2f9a891d1e542bcc47b"
+			"hash": "9d5fb282514d3eaef19ffb52cd330dcdd6463fd5af9fa5e295007aa96b20863e"
 		},
                 "32bit": {
 			"url": "http://www.farmanager.com/files/Far30b3900.x86.20140513.7z",
-			"hash": "060c665923e59cfceef1d9325735416384cfecbd"
+			"hash": "b17931831ea71e15a3a52af39600db2b830fde04d1fc628ab964ba51801ccb0c"
 		}
 	},
 	"bin":"Far Manager\\far.exe",
