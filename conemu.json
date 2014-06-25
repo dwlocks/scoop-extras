@@ -1,7 +1,7 @@
 {
 	"homepage": "https://code.google.com/p/conemu-maximus5",
 	"version": "140505",
-	"url": "http://www.fosshub.com/download/ConEmuPack.140505.7z",
+	"url": "http://sourceforge.net/projects/conemu/files/Preview/ConEmuPack.140505.7z/download",
 	"hash": "SHA1: 0a270ef96527aefcbb5147bb838603c6c4ceffd0",
 	"bin": "ConEmu.exe"
 }
