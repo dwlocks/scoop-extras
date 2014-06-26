@@ -1,7 +1,23 @@
 {
 	"homepage": "https://code.google.com/p/conemu-maximus5",
 	"version": "140505",
-	"url": "http://sourceforge.net/projects/conemu/files/Preview/ConEmuPack.140505.7z",
-	"hash": "SHA1:0a270ef96527aefcbb5147bb838603c6c4ceffd0",
-	"bin": "ConEmu.exe"
+	"architecture": {
+		"64bit": {
+			"url": ["http://sourceforge.net/projects/conemu/files/Preview/ConEmuPack.140505.7z",
+				"http://www.farmanager.com/files/Far30b3900.x64.20140513.7z"],
+
+			"hash": ["SHA1:0a270ef96527aefcbb5147bb838603c6c4ceffd0",
+				"9d5fb282514d3eaef19ffb52cd330dcdd6463fd5af9fa5e295007aa96b20863e"],
+		},
+        "32bit": {
+
+			"url": ["http://sourceforge.net/projects/conemu/files/Preview/ConEmuPack.140505.7z",
+				"http://www.farmanager.com/files/Far30b3900.x86.20140513.7z"],
+
+			"hash": ["SHA1:0a270ef96527aefcbb5147bb838603c6c4ceffd0",
+				"b17931831ea71e15a3a52af39600db2b830fde04d1fc628ab964ba51801ccb0c"]
+		}
+	},
+
+	"bin": ["ConEmu.exe", "far.exe"]
 }
